@@ -1,10 +1,16 @@
 # 💫 About Me:
 🎓 IT Engineering student
+
 💻 Self-taught web developer
+
 ☁️ Passionate about cloud computing & network engineering
+
 ⚙️ Background in embedded systems & IoT
+
 🌱 Currently focused on web development, cloud, and networking
+
 🧠 Independent learner who enjoys solving real-world problems
+
 🤝 Open to collaboration and contributing to innovative tech projects
 
 ## 🌐 Socials:
