@@ -1,11 +1,10 @@
 # 💫 About Me:
 🎓 IT Engineering student  
 💻 Self-taught web developer  
-☁️ Passionate about cloud computing & network engineering  
+☁️ Interested in cloud & networking  
 ⚙️ Background in embedded systems & IoT  
-🌱 Currently focused on web development, cloud, and networking  
-🧠 Independent learner who enjoys solving real-world problems  
-🤝 Open to collaboration and contributing to innovative tech projects
+🌱 Focused on web dev & real-world problem solving  
+🤝 Open to collaboration & innovation
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/z.sioud) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_zyn0_0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeineb-sioud/) 
