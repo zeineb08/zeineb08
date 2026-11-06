@@ -1,19 +1,23 @@
-# 💫 About Me
-
-🎓 IT Engineering Student  
-💻 Full-Stack Developer  
-☁️ Passionate about Cloud Computing & DevOps  
-🌐 Interested in Networking and Infrastructure  
-⚙️ Background in Embedded Systems & IoT  
-🚀 Building scalable applications and exploring automation, cloud infrastructure, and DevSecOps.
-
-## 🌐 Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/z.sioud)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_zyn0_0/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinebsioud/)
-
 ## 💻 Tech Stack
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Microsoft Azure"/>
+  <img src="https://skillicons.dev/icons?i=openstack" height="45" alt="OpenStack"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="45" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="Jenkins"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=helm" height="45" alt="Helm"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="Nginx"/>
+</p>
+
+**Additional:** Amazon EKS · Trivy · Prometheus · Grafana · SonarQube
 
 ### 👩‍💻 Programming Languages
 
@@ -41,39 +45,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45" alt="Databases"/>
 </p>
 
-### ☁️ Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,openstack,terraform" height="45" alt="Cloud and Infrastructure"/>
-</p>
-
-### 🐳 DevOps & Containerization
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,nginx" height="45" alt="DevOps and Containerization"/>
-</p>
-
-**Additional:** Amazon EKS
-
-### 🔄 CI/CD & DevSecOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,sonarqube" height="45" alt="CI/CD and DevSecOps"/>
-</p>
-
-**Additional:** Trivy
-
-### 📊 Monitoring & Observability
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="45" alt="Monitoring and Observability"/>
-</p>
-
 ### 🌐 Networking & Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell" height="45" alt="Networking and Systems"/>
-</p>
 
 **Networking:** TCP/IP · DNS · DHCP · SSH · Routing · Switching · Virtual Networks
 
@@ -82,7 +54,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,python" height="45" alt="Embedded Systems and IoT"/>
 </p>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
