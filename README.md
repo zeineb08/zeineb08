@@ -96,9 +96,7 @@ My interests include **Full-Stack Development, Cloud & DevOps, Networking, and E
 
 ---
 
-## 📌 Featured Projects
 
-<!-- Add your project repositories here -->
 
 ---
 
