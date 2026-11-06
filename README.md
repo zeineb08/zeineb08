@@ -13,11 +13,20 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="Jenkins"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions"/>
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash"/>
-  <img src="https://skillicons.dev/icons?i=helm" height="45" alt="Helm"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="Nginx"/>
 </p>
 
-**Additional:** Amazon EKS · Trivy · Prometheus · Grafana · SonarQube
+**Additional:** Helm
+
+### 📊 Monitoring & Observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="45" alt="Prometheus and Grafana"/>
+</p>
+
+### 🔒 Security & Code Quality
+
+**Tools:** Trivy · SonarQube
 
 ### 👩‍💻 Programming Languages
 
@@ -37,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,django" height="45" alt="Backend Technologies"/>
 </p>
 
-**Additional:** Go Fiber · GORM · JWT
 
 ### 🗄️ Databases
 
