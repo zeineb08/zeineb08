@@ -28,20 +28,10 @@ My interests include **Full-Stack Development, Cloud & DevOps, Networking, and E
 
 ## 💻 Tech Stack
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Microsoft Azure"/>
-  <img src="https://skillicons.dev/icons?i=openstack" height="45" alt="OpenStack"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="45" alt="Terraform"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="Jenkins"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash"/>
-  <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,openstack,linux,docker,kubernetes,terraform,jenkins,githubactions,bash,nginx" height="45" alt="Cloud and DevOps"/>
 </p>
 
 **Additional:** Amazon EKS · Helm
@@ -49,34 +39,28 @@ My interests include **Full-Stack Development, Cloud & DevOps, Networking, and E
 ### 📊 Monitoring & Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="45" alt="Prometheus and Grafana"/>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="45" alt="Monitoring and Observability"/>
 </p>
 
-### 🔒 Security & Code Quality
+### 🔐 DevSecOps & Code Quality
 
 **Tools:** Trivy · SonarQube
-
-### 👩‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,python,java,php" height="45" alt="Programming Languages"/>
-</p>
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,vite" height="45" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,js,ts" height="45" alt="Frontend Development"/>
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,django" height="45" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,python,django,java,php" height="45" alt="Backend Development"/>
 </p>
 
-**Additional:** Go Fiber · GORM · JWT
+**Additional:** Go Fiber · GORM · JWT · REST APIs
 
-### 🗄️ Databases
+### 🗄️ Databases & Data Storage
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45" alt="Databases"/>
@@ -84,7 +68,7 @@ My interests include **Full-Stack Development, Cloud & DevOps, Networking, and E
 
 ### 🌐 Networking & Systems
 
-**Networking:** TCP/IP · DNS · DHCP · SSH · Routing · Switching · Virtual Networks
+**Concepts & Technologies:** TCP/IP · DNS · DHCP · SSH · Routing · Switching · Virtual Networks
 
 ### 🔌 Embedded Systems & IoT
 
@@ -92,11 +76,7 @@ My interests include **Full-Stack Development, Cloud & DevOps, Networking, and E
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,cpp" height="45" alt="Embedded Systems and IoT"/>
 </p>
 
-**Additional:** ESP32 · MQTT · IoT Protocols
-
----
-
-
+**Additional:** ESP32 · MQTT · IoT Communication Protocols
 
 ---
 
