@@ -1,6 +1,10 @@
 # Hi, I'm Zeineb Sioud 👋
 
-### 🎓 IT Engineering Student | Full-Stack Developer | Cloud & DevOps Enthusiast
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=IT+Engineering+Student;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG"/>
+  </a>
+</p>
 
 I'm an IT engineering student passionate about software development, cloud computing, and emerging technologies.
 
